@@ -1,0 +1,18 @@
+{
+  "S001": {
+    "address": "Kampala, Uganda",
+    "contact": "+256-701-234567"
+  },
+  "S002": {
+    "address": "Entebbe, Uganda",
+    "contact": "+256-702-345678"
+  },
+  "S003": {
+    "address": "Jinja, Uganda",
+    "contact": "+256-703-456789"
+  },
+  "S004": {
+    "address": "Mbale, Uganda",
+    "contact": "+256-704-567890"
+  }
+}
