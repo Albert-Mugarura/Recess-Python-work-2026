@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+.env
+instance/
+.vscode/
+files.txt
+templates/__pycache__/
+templates/app.py
+templates/models.py
+venv/
+.venv/
